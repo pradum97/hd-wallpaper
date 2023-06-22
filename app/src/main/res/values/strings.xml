@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HD Wallpaper</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="share">Share</string>
+    <string name="rate_this_app">Rate This App</string>
+    <string name="more_apps">More Apps</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+</resources>
